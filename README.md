@@ -16,11 +16,11 @@ anaconda shell에서
 
 > python -m pygame.examples.aliens 
 
-
-
 * 예제 : https://github.com/xamox/pygame/tree/master/examples
 
 
+
+##Puzzle [sudoku](/SUDOKU/)
 
 
 
