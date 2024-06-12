@@ -9,6 +9,8 @@ Chess Game [체스](https://github.com/ngio/python_pygame/tree/main/pygame_chess
 
 Snake Pygame : [Snake Pygame](/Snake_pygame)
 
+catch-the-fruit : [catch-the-fruit-main](/catch-the-fruit-main)
+
 Space-Invaders : [Space-Invaders](/Space-Invaders-Pygame) 
 
 [Space-Invaders](https://github.com/ngio/python_pygame/blob/main/Space-Invaders-Pygame/main.py) 
