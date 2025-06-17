@@ -30,4 +30,28 @@ anaconda shell에서
 ##Puzzle [sudoku](/SUDOKU/)
 
 
+## 라이브러리 확인 / 설치
 
+    pip freeze > requirements.txt
+
+    pip install -r requirements.txt
+
+
+
+    # 1. 가상 환경 생성 (처음 한 번만)
+    python -m venv my_project_env # 또는 conda create -n my_project_env python=3.9
+    
+    # 2. 가상 환경 활성화
+    # Windows: .\my_project_env\Scripts\activate
+    # macOS/Linux: source my_project_env/bin/activate
+    # Conda: conda activate my_project_env
+    
+    # 3. requirements.txt 파일이 있는 디렉토리로 이동
+    # cd /path/to/your/project
+    
+    # 4. 라이브러리 설치
+    pip install -r requirements.txt
+
+![image](https://github.com/user-attachments/assets/be6bea7b-0121-4f58-810f-c8b1e3cf1a09)
+
+![image](https://github.com/user-attachments/assets/c6d3b366-2bee-45f5-a2d7-c704ed354888)
